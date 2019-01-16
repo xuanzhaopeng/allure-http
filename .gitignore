@@ -1,0 +1,5 @@
+.idea/
+allure-http
+allure-http.exe
+vendor/
+coverage.txt
